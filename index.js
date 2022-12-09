@@ -7,10 +7,13 @@ function questionThree(){
     for(arrayIndex; arrayIndex <= myArray.length; arrayIndex++){
         
  
-        sum = starter + myArray[arrayIndex];
+        sum =  myArray[arrayIndex];
     }
 
     console.log(sum);
 }
 
 console.log(questionThree());
+function questionOne() {
+    
+}
